@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harrie\\dogrehoming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|c:\\users\\harrie\\dogrehoming\\dogrehoming.core\\controllers\\surface\\dogsearchsurfacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|solutionrelative:dogrehoming.core\\controllers\\surface\\dogsearchsurfacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|c:\\users\\harrie\\dogrehoming\\dogrehoming.core\\controllers\\render\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|solutionrelative:dogrehoming.core\\controllers\\render\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA173004-5063-4345-B3EF-CFB959423FDD}|DogRehoming.Web\\DogRehoming.Web.csproj|c:\\users\\harrie\\dogrehoming\\dogrehoming.web\\views\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA173004-5063-4345-B3EF-CFB959423FDD}|DogRehoming.Web\\DogRehoming.Web.csproj|solutionrelative:dogrehoming.web\\views\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|c:\\users\\harrie\\dogrehoming\\dogrehoming.core\\models\\custommodels\\adddogsurfacemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|solutionrelative:dogrehoming.core\\models\\custommodels\\adddogsurfacemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|c:\\users\\harrie\\dogrehoming\\dogrehoming.core\\models\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|solutionrelative:dogrehoming.core\\models\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|c:\\users\\harrie\\dogrehoming\\dogrehoming.core\\dogrehoming.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|solutionrelative:dogrehoming.core\\dogrehoming.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA173004-5063-4345-B3EF-CFB959423FDD}|DogRehoming.Web\\DogRehoming.Web.csproj|c:\\users\\harrie\\dogrehoming\\dogrehoming.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA173004-5063-4345-B3EF-CFB959423FDD}|DogRehoming.Web\\DogRehoming.Web.csproj|solutionrelative:dogrehoming.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|c:\\users\\harrie\\dogrehoming\\dogrehoming.core\\models\\data\\customdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDCD785-F2B6-486D-B757-950838BDD527}|dogrehoming.Core\\DogRehoming.Core.csproj|solutionrelative:dogrehoming.core\\models\\data\\customdog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA173004-5063-4345-B3EF-CFB959423FDD}|DogRehoming.Web\\DogRehoming.Web.csproj|c:\\users\\harrie\\dogrehoming\\dogrehoming.web\\dogrehoming.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA173004-5063-4345-B3EF-CFB959423FDD}|DogRehoming.Web\\DogRehoming.Web.csproj|solutionrelative:dogrehoming.web\\dogrehoming.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Harrie\\AppData\\Roaming\\Microsoft\\UserSecrets\\374224e1-8b41-47c4-a111-7993472492a7\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Core\\Models\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "DogRehoming.Core\\Models\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Core\\Models\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "DogRehoming.Core\\Models\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:16:44.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Harrie\\dogrehoming\\dogrehoming.Core\\Controllers\\Render\\HomeController.cs",
+              "RelativeDocumentMoniker": "dogrehoming.Core\\Controllers\\Render\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Harrie\\dogrehoming\\dogrehoming.Core\\Controllers\\Render\\HomeController.cs",
+              "RelativeToolTip": "dogrehoming.Core\\Controllers\\Render\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:12:39.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogSearchSurfaceController.cs",
+              "DocumentMoniker": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Core\\Controllers\\Surface\\DogSearchSurfaceController.cs",
+              "RelativeDocumentMoniker": "DogRehoming.Core\\Controllers\\Surface\\DogSearchSurfaceController.cs",
+              "ToolTip": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Core\\Controllers\\Surface\\DogSearchSurfaceController.cs",
+              "RelativeToolTip": "DogRehoming.Core\\Controllers\\Surface\\DogSearchSurfaceController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:29:57.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DogRehoming.Core",
+              "DocumentMoniker": "C:\\Users\\Harrie\\dogrehoming\\dogrehoming.Core\\DogRehoming.Core.csproj",
+              "RelativeDocumentMoniker": "dogrehoming.Core\\DogRehoming.Core.csproj",
+              "ToolTip": "C:\\Users\\Harrie\\dogrehoming\\dogrehoming.Core\\DogRehoming.Core.csproj",
+              "RelativeToolTip": "dogrehoming.Core\\DogRehoming.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T11:29:05.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Web\\Views\\home.cshtml",
+              "RelativeDocumentMoniker": "DogRehoming.Web\\Views\\home.cshtml",
+              "ToolTip": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Web\\Views\\home.cshtml",
+              "RelativeToolTip": "DogRehoming.Web\\Views\\home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T12:02:26.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddDogSurfaceModel.cs",
+              "DocumentMoniker": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Core\\Models\\CustomModels\\AddDogSurfaceModel.cs",
+              "RelativeDocumentMoniker": "DogRehoming.Core\\Models\\CustomModels\\AddDogSurfaceModel.cs",
+              "ToolTip": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Core\\Models\\CustomModels\\AddDogSurfaceModel.cs",
+              "RelativeToolTip": "DogRehoming.Core\\Models\\CustomModels\\AddDogSurfaceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:19:57.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "DogRehoming.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Web\\appsettings.json",
+              "RelativeToolTip": "DogRehoming.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T11:52:42.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomDog.cs",
+              "DocumentMoniker": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Core\\Models\\Data\\CustomDog.cs",
+              "RelativeDocumentMoniker": "DogRehoming.Core\\Models\\Data\\CustomDog.cs",
+              "ToolTip": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Core\\Models\\Data\\CustomDog.cs",
+              "RelativeToolTip": "DogRehoming.Core\\Models\\Data\\CustomDog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:36:18.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DogRehoming.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Web\\DogRehoming.Web.csproj",
+              "RelativeDocumentMoniker": "DogRehoming.Web\\DogRehoming.Web.csproj",
+              "ToolTip": "C:\\Users\\Harrie\\dogrehoming\\DogRehoming.Web\\DogRehoming.Web.csproj",
+              "RelativeToolTip": "DogRehoming.Web\\DogRehoming.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T11:29:20.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Harrie\\AppData\\Roaming\\Microsoft\\UserSecrets\\374224e1-8b41-47c4-a111-7993472492a7\\secrets.json",
+              "RelativeDocumentMoniker": "..\\AppData\\Roaming\\Microsoft\\UserSecrets\\374224e1-8b41-47c4-a111-7993472492a7\\secrets.json",
+              "ToolTip": "C:\\Users\\Harrie\\AppData\\Roaming\\Microsoft\\UserSecrets\\374224e1-8b41-47c4-a111-7993472492a7\\secrets.json",
+              "RelativeToolTip": "..\\AppData\\Roaming\\Microsoft\\UserSecrets\\374224e1-8b41-47c4-a111-7993472492a7\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T11:08:47.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogRehoming.Web", "DogRehoming.Web\DogRehoming.Web.csproj", "{CA173004-5063-4345-B3EF-CFB959423FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogRehoming.Core", "dogrehoming.Core\DogRehoming.Core.csproj", "{9DDCD785-F2B6-486D-B757-950838BDD527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA173004-5063-4345-B3EF-CFB959423FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA173004-5063-4345-B3EF-CFB959423FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA173004-5063-4345-B3EF-CFB959423FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA173004-5063-4345-B3EF-CFB959423FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDCD785-F2B6-486D-B757-950838BDD527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDCD785-F2B6-486D-B757-950838BDD527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDCD785-F2B6-486D-B757-950838BDD527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDCD785-F2B6-486D-B757-950838BDD527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33518FA6-3723-45AE-A449-DC114A42E288}
+	EndGlobalSection
+EndGlobal

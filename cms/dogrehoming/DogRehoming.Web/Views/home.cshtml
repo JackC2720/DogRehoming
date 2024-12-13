@@ -1,0 +1,16 @@
+﻿@using DogRehoming.Core.Controllers.Surface
+@using DogRehoming.Core.Models.PublishedModels
+@using DogRehoming.Core.Models.ViewModels
+@using Umbraco.Cms.Web.Common.PublishedModels;
+@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage<HomeViewModel>;
+@{
+	Layout = null;
+}
+<h1>@Model.Content.Title</h1>
+
+@using (Html.BeginUmbracoForm<DogSearchSurfaceController>(nameof(DogSearchSurfaceController.AddDog), FormMethod.Post))
+{
+	<label for="dog-search">Find a dog</label>
+	<input name="AddDogSurface.Name" id="dog-search" type="text" />
+	<input type="submit" />
+}
