@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZjO2q2EY6mM=",
+  "dgSpecHash": "1+wll2WoxEc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harrie\\dogrehoming\\dogrehoming.Core\\DogRehoming.Core.csproj",
+  "projectFilePath": "C:\\Users\\Harrie\\DogRehoming\\cms\\dogrehoming\\dogrehoming.Core\\DogRehoming.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Harrie\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
     "C:\\Users\\Harrie\\.nuget\\packages\\asp.versioning.http\\8.1.0\\asp.versioning.http.8.1.0.nupkg.sha512",
@@ -197,8 +197,7 @@
     "C:\\Users\\Harrie\\.nuget\\packages\\umbraco.cms.infrastructure\\15.0.0\\umbraco.cms.infrastructure.15.0.0.nupkg.sha512",
     "C:\\Users\\Harrie\\.nuget\\packages\\umbraco.cms.publishedcache.hybridcache\\15.0.0\\umbraco.cms.publishedcache.hybridcache.15.0.0.nupkg.sha512",
     "C:\\Users\\Harrie\\.nuget\\packages\\umbraco.cms.web.common\\15.0.0\\umbraco.cms.web.common.15.0.0.nupkg.sha512",
-    "C:\\Users\\Harrie\\.nuget\\packages\\umbraco.cms.web.website\\15.0.0\\umbraco.cms.web.website.15.0.0.nupkg.sha512",
-    "C:\\Users\\Harrie\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512"
+    "C:\\Users\\Harrie\\.nuget\\packages\\umbraco.cms.web.website\\15.0.0\\umbraco.cms.web.website.15.0.0.nupkg.sha512"
   ],
   "logs": []
 }

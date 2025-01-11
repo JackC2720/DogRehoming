@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DogRehoming.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ff2b5bd2cd40985bf25fe8dd28cb545e0335d36")]
 [assembly: System.Reflection.AssemblyProductAttribute("DogRehoming.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DogRehoming.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
