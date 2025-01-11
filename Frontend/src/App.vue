@@ -1,47 +1,44 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import { ref, computed } from 'vue'
+import Header from './components/Header.vue'
+import Home from '@/views/Home.vue'
+import About from '@/views/About.vue'
+import Dogs from '@/views/Dogs.vue'
+import Contact from '@/views/Contact.vue'
+import Footer from '@/components/Footer.vue'
+
+const currentPath = ref(window.location.hash)
+
+window.addEventListener('hashchange', () => {
+  currentPath.value = window.location.hash
+})
+
+interface Routes {
+  [key: string]: any
+}
+const routes: Routes = {
+  '/': Home,
+  '/dogs': Dogs,
+  '/about': About,
+  '/contact': Contact,
+}
+
+const currentView = computed(() => {
+  return routes[currentPath.value.slice(1) || '/' || 'Not found']
+})
+
+const orgTitle = 'Dog Rehoming'
+const subTitle = 'Finding nice homes for the nicest dogs'
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
+  <Header :title="`${orgTitle}`" :subtitle="`${subTitle}`"></Header>
 
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+  <main class="container">
+    <div class="mx-8 my-10">
+      <component :is="currentView" />
     </div>
-  </header>
-
-  <main>
-    <TheWelcome />
   </main>
+
+  <Footer :title="`${orgTitle}`" :subtitle="`${subTitle}`"></Footer>
 </template>
-
-<style scoped>
-header {
-  line-height: 1.5;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-}
-</style>
